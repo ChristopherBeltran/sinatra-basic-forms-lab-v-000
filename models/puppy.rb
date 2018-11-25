@@ -8,4 +8,6 @@ class Puppy
     @breed = breed
   end 
   
+end 
+  
   
